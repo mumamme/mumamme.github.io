@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-02T15:58:10.213Z</updated>
+  <updated>2020-08-02T16:18:47.414Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>picgo github error</title>
+    <link href="http://yoursite.com/2020/08/03/picgo-github-error/"/>
+    <id>http://yoursite.com/2020/08/03/picgo-github-error/</id>
+    <published>2020-08-02T16:01:13.000Z</published>
+    <updated>2020-08-02T16:18:47.414Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>工具:PicGo version 2.2.2 + GitHub<br>报错:上传失败，服务端出错，请重试</p></blockquote><p>目前找到的可能的情况包括：</p><h6 id="1-命名问题"><a href="#1-命名问题" class="headerlink" title="1.命名问题"></a>1.命名问题</h6><p>原因：仓库名或者文件名中包含空格<br>解决方案：去掉空格，可以使用<code>-</code>代替</p><h6 id="2-莫名其妙失败"><a href="#2-莫名其妙失败" class="headerlink" title="2.莫名其妙失败"></a>2.莫名其妙失败</h6><p>表现：命名没有问题，设置没有问题，上传成功过，突然不能上传了或者修改了存储路径等<br>解决方案：在<code>PicGo设置</code>中选择<code>设置Server</code>，关闭服务后再开启服务。如果还是不行，重启PicGo，甚至重启电脑，亲测有效。</p><blockquote><p>目前还没有了解第二种情况的原因，不过刚使用PicGo就出现这样的问题，让我对他的印象很不好。总之，基本重启应用解决。<br>感觉PicGo没有想象中那么好用。</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;工具:PicGo version 2.2.2 + GitHub&lt;br&gt;报错:上传失败，服务端出错，请重试&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;目前找到的可能的情况包括：&lt;/p&gt;
+&lt;h6 id=&quot;1-命名问题&quot;&gt;&lt;a href=&quot;#1-命名问题
+      
+    
+    </summary>
+    
+    
+      <category term="踩坑记录" scheme="http://yoursite.com/categories/%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95/"/>
+    
+    
+      <category term="GitHub" scheme="http://yoursite.com/tags/GitHub/"/>
+    
+      <category term="PicGo" scheme="http://yoursite.com/tags/PicGo/"/>
+    
+  </entry>
   
   <entry>
     <title>小白搭建hexo博客总结</title>
