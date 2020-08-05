@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-05T14:26:57.527Z</updated>
+  <updated>2020-08-05T14:46:29.644Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>文章加密测试</title>
+    <link href="http://yoursite.com/2020/08/05/encrypt/"/>
+    <id>http://yoursite.com/2020/08/05/encrypt/</id>
+    <published>2020-08-05T14:38:06.000Z</published>
+    <updated>2020-08-05T14:46:29.644Z</updated>
+    
+    <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <div class="hbe-input-container">  <input type="password" id="hbePass" placeholder="" />    <label for="hbePass">输入密码，查看文章</label>    <div class="bottom-line"></div>  </div>  <script id="hbeData" type="hbeData" data-hmacdigest="b81d7ad1059fcafeb9f7c03c735aad3f83be6bf3f0ca00674dd743df7393136c">3b6d77eb3b3b14f188317bfc7ab22bad</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    <summary type="html">
+    
+      密码：Test
+    
+    </summary>
+    
+    
+      <category term="博客测试" scheme="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Markdown文本测试</title>
