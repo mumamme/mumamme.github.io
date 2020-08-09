@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-09T03:58:28.910Z</updated>
+  <updated>2020-08-09T03:48:04.390Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,40 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>linux libxp</title>
-    <link href="http://yoursite.com/2020/08/09/linux-libxp-1/"/>
-    <id>http://yoursite.com/2020/08/09/linux-libxp-1/</id>
-    <published>2020-08-09T03:58:28.000Z</published>
-    <updated>2020-08-09T03:58:28.910Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>linux libxp</title>
-    <link href="http://yoursite.com/2020/08/09/linux-libxp/"/>
-    <id>http://yoursite.com/2020/08/09/linux-libxp/</id>
-    <published>2020-08-09T03:52:54.000Z</published>
-    <updated>2020-08-09T03:57:55.595Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-      <category term="踩坑记录" scheme="http://yoursite.com/categories/%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95/"/>
-    
-    
-      <category term="Linux" scheme="http://yoursite.com/tags/Linux/"/>
-    
-  </entry>
   
   <entry>
     <title>文章加密测试</title>
