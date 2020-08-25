@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-25T14:08:27.249Z</updated>
+  <updated>2020-08-25T14:22:02.442Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>chrome extension plug-in</title>
+    <title>我的首个觉得贼有用的chrome插件</title>
     <link href="http://yoursite.com/2020/08/21/chrome-extension-plug-in/"/>
     <id>http://yoursite.com/2020/08/21/chrome-extension-plug-in/</id>
     <published>2020-08-21T06:08:14.000Z</published>
-    <updated>2020-08-25T14:08:27.249Z</updated>
+    <updated>2020-08-25T14:22:02.442Z</updated>
     
     <content type="html"><![CDATA[<blockquote><p>之前一直有听说chrome插件，瞅了别人说的油猴插件，并没有给我很惊艳的感觉。或许是我没有这方面的需求吧。最近基于我的需要，我被别人安利了一个chrome插件叫做Google访问助手插件。通过这个插件，我可以访问Google相关网站了，顺便还申请了gmail（以前好像有，但是早忘了）。<br>贴一下他的链接：<a href="https://blog.csdn.net/frdevolcqzyxynjds/article/details/107559119">Chrome 咕咕牛懒器(guge niú lǎn qì) 安装 及助手插件操作</a>。<br>下面是我的总结。</p></blockquote><h1 id="下载安装包"><a href="#下载安装包" class="headerlink" title="下载安装包"></a>下载安装包</h1><p>我们需要准备两个包：chrome浏览器安装包和助手插件包。<br>我的安装包下载参考链接：<br>助手插件包下载参考链接：<a href="https://chrome.zzzmh.cn/info?token=gocklaboggjfkolaknpbhddbaopcepfp">https://chrome.zzzmh.cn/info?token=gocklaboggjfkolaknpbhddbaopcepfp</a><br>网盘链接：</p><h1 id="安装chrome浏览器"><a href="#安装chrome浏览器" class="headerlink" title="安装chrome浏览器"></a>安装chrome浏览器</h1><p>直接运行chrome浏览器安装包就行。不够我好像没有发现可以自定义安装目录的地方，如果有知道的可以分享一下。</p><h1 id="安装插件"><a href="#安装插件" class="headerlink" title="安装插件"></a>安装插件</h1><p>在浏览器中输入<code>chrome://extensions/</code>，打开右上角的开发者模式，将<code>.crx</code>文件直接拖进来安装插件。</p><ul><li>如果右上角有弹窗，不需要开启同步。</li><li>如果发现页面提示试用时间，不用担心，直接点击右上角，选择最下面的<code>退出</code>选项就可以。</li></ul><p>再次打开chrome浏览器，就会发现可以使用Google相关服务啦。</p><h1 id="可能的问题"><a href="#可能的问题" class="headerlink" title="可能的问题"></a>可能的问题</h1><p>如果出现了<code>CRX_HEADER_INVALID</code>报错(我从极简插件上下载的就会出现)，可以修改<code>.crx</code>文件的拓展名改成<code>.zip</code>，再拖进来就没有问题了，亲测有效。</p><blockquote><p>整个安装过程还是比较方便的，小白友好。<br>不过这玩意儿不等于翻墙，所以其他很多被墙的还是不能上。在写这篇博文的时候，中美关系非常不好。前段时间比较热门的话题就是特朗普因为tiktok宣布封禁了tiktok和微信。希望后面选举结束后，状况能够改善。</p><p>参考链接：</p><ol><li><a href="https://blog.csdn.net/frdevolcqzyxynjds/article/details/107559119">Chrome 咕咕牛懒器(guge niú lǎn qì) 安装 及助手插件操作</a></li><li><a href="https://chrome.zzzmh.cn/help?token=setup">最全的Chrome插件安装方法! 解决 CRX_HEADER_INVALID</a></li></ol></blockquote>]]></content>
     
