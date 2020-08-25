@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://yoursite.com/2020/08/03/picgo-github-error/</loc>
-    <lastmod>2020-08-09</lastmod>
+    <loc>http://yoursite.com/2020/08/21/chrome-extension-plug-in/</loc>
+    <lastmod>2020-08-25</lastmod>
+  </url>
+  <url>
+    <loc>http://yoursite.com/2020/08/02/hello-world/</loc>
+    <lastmod>2020-08-25</lastmod>
   </url>
   <url>
     <loc>http://yoursite.com/2020/08/05/markdown-test/</loc>
+    <lastmod>2020-08-24</lastmod>
+  </url>
+  <url>
+    <loc>http://yoursite.com/2020/08/02/about-hexo/</loc>
+    <lastmod>2020-08-24</lastmod>
+  </url>
+  <url>
+    <loc>http://yoursite.com/2020/08/03/picgo-github-error/</loc>
     <lastmod>2020-08-09</lastmod>
   </url>
   <url>
     <loc>http://yoursite.com/2020/08/05/encrypt/</loc>
     <lastmod>2020-08-09</lastmod>
-  </url>
-  <url>
-    <loc>http://yoursite.com/2020/08/02/about-hexo/</loc>
-    <lastmod>2020-08-02</lastmod>
-  </url>
-  <url>
-    <loc>http://yoursite.com/2020/08/02/hello-world/</loc>
-    <lastmod>2020-08-02</lastmod>
   </url>
 </urlset> 
